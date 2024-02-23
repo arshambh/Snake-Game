@@ -22,7 +22,7 @@ Welcome to the Classic Snake Game! This is a simple yet addictive game where you
 [Insert screenshots of your game here]
 
 ## About:
-This Snake Game is a Python implementation of the classic arcade game. It is created by [Your Name] and released under the [License Type] license.
+This Snake Game is a Python implementation of the classic arcade game. It is created by Arsham Behbahani and released under the Open source license license.
 
 ## Contributions:
 Contributions are welcome! If you have any suggestions for improvements or new features, feel free to open an issue or create a pull request.
